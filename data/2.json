@@ -1,428 +1,437 @@
 {
-  "url": "http://stock-data-api.com/",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Vary": "Cookie,Accept-Encoding",
+    "Date": "Sat, 28 May 2016 15:13:16 GMT",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Server": "Apache/2.4.18 (Ubuntu)",
+    "Connection": "close",
+    "Cache-Control": "max-age=2592000",
+    "Transfer-Encoding": "chunked",
+    "Expires": "Mon, 27 Jun 2016 15:13:16 GMT"
+  },
+  "status": 200,
   "tags": [
     {
-      "content": null,
-      "name": "meta",
       "attributes": {
         "charset": "utf-8"
-      }
+      },
+      "content": null,
+      "name": "meta"
     },
     {
-      "content": null,
-      "name": "meta",
       "attributes": {
         "content": "width=device-width",
         "name": "viewport"
-      }
-    },
-    {
-      "content": "Buy Historical Stock Market Analytics JSON API | Stock Data API",
-      "name": "title",
-      "attributes": null
-    },
-    {
+      },
       "content": null,
-      "name": "meta",
+      "name": "meta"
+    },
+    {
+      "attributes": null,
+      "content": "Buy Historical Stock Market Analytics JSON API | Stock Data API",
+      "name": "title"
+    },
+    {
       "attributes": {
         "content": "Historical stock data JSON REST API for financial market data. Includes over 6,000 companies\n    and more than 50 advanced technical indicators.",
         "name": "description"
-      }
+      },
+      "content": null,
+      "name": "meta"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "/static/website/images/icons/favicon.ico",
         "rel": [
           "shortcut",
           "icon"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css",
         "rel": [
           "stylesheet"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
-        "type": "text/css",
         "href": "http://fonts.googleapis.com/css?family=Droid+Sans:400,700",
         "rel": [
           "stylesheet"
-        ]
-      }
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
-        "type": "text/css",
         "href": "/static/website/css/foundation.css",
         "rel": [
           "stylesheet"
-        ]
-      }
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
-        "type": "text/css",
         "href": "/static/website/css/master.css",
         "rel": [
           "stylesheet"
-        ]
-      }
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "/static/website/css/flexslider.css",
         "rel": [
           "stylesheet"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "/static/website/css/animate.css",
         "rel": [
           "stylesheet"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "/static/website/css/owl.carousel.css",
         "rel": [
           "stylesheet"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": null,
-      "name": "link",
       "attributes": {
         "href": "/static/website/css/owl.theme.css",
         "rel": [
           "stylesheet"
         ]
-      }
+      },
+      "content": null,
+      "name": "link"
     },
     {
-      "content": "+1 (801) 123-4567",
-      "name": "li",
       "attributes": {
         "class": [
           "phone"
         ]
-      }
+      },
+      "content": "+1 (801) 123-4567",
+      "name": "li"
     },
     {
+      "attributes": {
+        "href": "/contact/"
+      },
       "content": "HELP & SUPPORT",
-      "name": "a",
-      "attributes": {
-        "href": "/contact/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/contact/"
+      },
       "content": "CONTACT US",
-      "name": "a",
-      "attributes": {
-        "href": "/contact/"
-      }
+      "name": "a"
     },
     {
-      "content": "SIGN UP",
-      "name": "a",
       "attributes": {
         "href": "/register/"
-      }
+      },
+      "content": "SIGN UP",
+      "name": "a"
     },
     {
-      "content": "LOGIN",
-      "name": "a",
       "attributes": {
         "href": "/login/"
-      }
+      },
+      "content": "LOGIN",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/logo.png",
         "alt": "Stock Data API Logo"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": "ABOUT US",
-      "name": "a",
       "attributes": {
         "href": "/about/"
-      }
+      },
+      "content": "ABOUT US",
+      "name": "a"
     },
     {
-      "content": "DOCS",
-      "name": "a",
       "attributes": {
         "href": "/documentation/"
-      }
+      },
+      "content": "DOCS",
+      "name": "a"
     },
     {
-      "content": "FEATURES",
-      "name": "a",
       "attributes": {
         "href": "/features/"
-      }
+      },
+      "content": "FEATURES",
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "PURCHASE",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "BEGINNER",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "30 requests/min",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "PRO",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "60 requests/min",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
-      "content": "ULTIMATE",
-      "name": "a",
       "attributes": {
         "href": "/purchase/"
-      }
+      },
+      "content": "ULTIMATE",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "200 requests/min",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": {
+        "href": "/contact/"
+      },
       "content": "SUPPORT",
-      "name": "a",
-      "attributes": {
-        "href": "/contact/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/contact/"
+      },
       "content": "CONTACT US",
-      "name": "a",
-      "attributes": {
-        "href": "/contact/"
-      }
+      "name": "a"
     },
     {
-      "content": "PYTHON",
-      "name": "a",
       "attributes": {
         "href": "https://github.com/buckyroberts/python-Stock-Data",
         "target": "_blank"
-      }
+      },
+      "content": "PYTHON",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "Home",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
+      "attributes": null,
       "content": "About Us",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
+      "attributes": null,
       "content": "Documentation",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
+      "attributes": {
+        "href": "/documentation/"
+      },
       "content": "- Overview",
-      "name": "a",
-      "attributes": {
-        "href": "/documentation/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/documentation/"
+      },
       "content": "- Company Overview",
-      "name": "a",
-      "attributes": {
-        "href": "/documentation/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/documentation/"
+      },
       "content": "- Historical Price Data",
-      "name": "a",
-      "attributes": {
-        "href": "/documentation/"
-      }
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "Features & Indicators",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
+      "attributes": null,
       "content": "Purchase",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "- Beginner",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "- Pro",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "- Ultimate",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "Support",
-      "name": "strong",
-      "attributes": null
+      "name": "strong"
     },
     {
-      "content": "- Contact Us",
-      "name": "a",
       "attributes": {
         "href": "/contact/"
-      }
+      },
+      "content": "- Contact Us",
+      "name": "a"
     },
     {
-      "content": "- Python Wrapper",
-      "name": "a",
       "attributes": {
         "href": "https://github.com/buckyroberts/python-Stock-Data"
-      }
+      },
+      "content": "- Python Wrapper",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/slider/slide-1.jpg",
         "alt": "Access historical stock data"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
+      "attributes": null,
       "content": "ACCESS HISTORICAL STOCK DATA",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "All exchanges including NASDAQ, NYSE, and AMEX",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": "Discover the benefits of historical stock data",
-      "name": "a",
       "attributes": {
         "href": "/register/"
-      }
+      },
+      "content": "Discover the benefits of historical stock data",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/slider/slide-2.jpg",
         "alt": "Analyze over 50 technical indicators"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
+      "attributes": null,
       "content": "ANALYZE 50+ TECHNICAL INDICATORS",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "Popular technical indicators including RSI, Fast Stochastics, and MACD",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": "Start analyzing historical stock prices today",
-      "name": "a",
       "attributes": {
         "href": "/register/"
-      }
+      },
+      "content": "Start analyzing historical stock prices today",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/slider/slide-3.jpg",
         "alt": "Award winning JSON REST API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
+      "attributes": null,
       "content": "DATA FOR OVER 6,000 COMPANIES",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "Historical data for all of the world\u2019s most popular companies",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": "Sign up today for instant access",
-      "name": "a",
       "attributes": {
         "href": "/register/"
-      }
+      },
+      "content": "Sign up today for instant access",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "You need advanced analytics.",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
-      "content": "SIGNUP NOW",
-      "name": "a",
       "attributes": {
         "href": "/register/",
         "class": [
@@ -430,101 +439,101 @@
           "round",
           "large"
         ]
-      }
+      },
+      "content": "SIGNUP NOW",
+      "name": "a"
     },
     {
+      "attributes": {
+        "class": [
+          "title"
+        ]
+      },
       "content": "BEGINNER",
-      "name": "h3",
-      "attributes": {
-        "class": [
-          "title"
-        ]
-      }
+      "name": "h3"
     },
     {
+      "attributes": null,
       "content": "$29.99",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
+      "attributes": null,
       "content": "price / month",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "30 requests per minute",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "Data for 6,000 Companies",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "All Core Price History",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "Basic company overviews",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": {
+        "href": "/register/",
+        "class": [
+          "button",
+          "radius",
+          "small"
+        ]
+      },
       "content": "start analyzing now",
-      "name": "a",
-      "attributes": {
-        "href": "/register/",
-        "class": [
-          "button",
-          "radius",
-          "small"
-        ]
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "class": [
+          "title"
+        ]
+      },
       "content": "PRO",
-      "name": "h3",
-      "attributes": {
-        "class": [
-          "title"
-        ]
-      }
+      "name": "h3"
     },
     {
+      "attributes": null,
       "content": "$49.99",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
+      "attributes": null,
       "content": "price / month",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "60 requests per minute",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "Data for 6,000 Companies",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "All History & Overviews",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "5+ Technical Indicators",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
-      "content": "choose a pro plan",
-      "name": "a",
       "attributes": {
         "href": "/register/",
         "class": [
@@ -532,50 +541,50 @@
           "radius",
           "small"
         ]
-      }
+      },
+      "content": "choose a pro plan",
+      "name": "a"
     },
     {
-      "content": "ULTIMATE",
-      "name": "h3",
       "attributes": {
         "class": [
           "title"
         ]
-      }
+      },
+      "content": "ULTIMATE",
+      "name": "h3"
     },
     {
+      "attributes": null,
       "content": "$99.99",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
+      "attributes": null,
       "content": "price / month",
-      "name": "span",
-      "attributes": null
+      "name": "span"
     },
     {
+      "attributes": null,
       "content": "200 requests per minute",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "Data for 6,000 Companies",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "All History & Overviews",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
+      "attributes": null,
       "content": "10+ Technical Indicators",
-      "name": "li",
-      "attributes": null
+      "name": "li"
     },
     {
-      "content": "signup today",
-      "name": "a",
       "attributes": {
         "href": "/register/",
         "class": [
@@ -583,258 +592,258 @@
           "radius",
           "small"
         ]
-      }
+      },
+      "content": "signup today",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-globe",
           "icon-64"
-        ],
-        "aria-hidden": "true"
-      }
-    },
-    {
-      "content": "JSON API Stock Data",
-      "name": "h5",
-      "attributes": null
-    },
-    {
-      "content": "Stock Data offers a simple API for stock market data. The API delivers end-of-day prices, open, high, low, close, volume, adjusted close, and more.",
-      "name": "p",
-      "attributes": null
-    },
-    {
+        ]
+      },
       "content": null,
-      "name": "hr",
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "JSON API Stock Data",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Stock Data offers a simple API for stock market data. The API delivers end-of-day prices, open, high, low, close, volume, adjusted close, and more.",
+      "name": "p"
+    },
+    {
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-file-text",
           "icon-64"
-        ],
-        "aria-hidden": "true"
-      }
-    },
-    {
-      "content": "Full Documentation",
-      "name": "h5",
-      "attributes": null
-    },
-    {
-      "content": "We have a huge amount of stock data. This data is divided into multiple databases, each covering a different subject. Premium databases are of higher quality, and more comprehensive.",
-      "name": "p",
-      "attributes": null
-    },
-    {
+        ]
+      },
       "content": null,
-      "name": "hr",
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "Full Documentation",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "We have a huge amount of stock data. This data is divided into multiple databases, each covering a different subject. Premium databases are of higher quality, and more comprehensive.",
+      "name": "p"
+    },
+    {
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-line-chart",
           "icon-64"
-        ],
-        "aria-hidden": "true"
-      }
-    },
-    {
-      "content": "50+ Technical Indicators",
-      "name": "h5",
-      "attributes": null
-    },
-    {
-      "content": "Over 50 of the best technical indicators including RSI, Full Stochastics, and MACD that can be used as a basis for trading, as they can form buy-and-sell signals.",
-      "name": "p",
-      "attributes": null
-    },
-    {
+        ]
+      },
       "content": null,
-      "name": "hr",
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "50+ Technical Indicators",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Over 50 of the best technical indicators including RSI, Full Stochastics, and MACD that can be used as a basis for trading, as they can form buy-and-sell signals.",
+      "name": "p"
+    },
+    {
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-server",
           "icon-64"
-        ],
-        "aria-hidden": "true"
-      }
-    },
-    {
-      "content": "Data for 6,500 Companies",
-      "name": "h5",
-      "attributes": null
-    },
-    {
-      "content": "Get access to over 6,000 of the worlds most popular companies from all major exchanges including NASDAQ, NYSE, and AMEX.",
-      "name": "p",
-      "attributes": null
-    },
-    {
+        ]
+      },
       "content": null,
-      "name": "div",
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "Data for 6,500 Companies",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Get access to over 6,000 of the worlds most popular companies from all major exchanges including NASDAQ, NYSE, and AMEX.",
+      "name": "p"
+    },
+    {
       "attributes": {
         "class": [
           "dividerimg"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": "What our customers have to say",
-      "name": "h4",
       "attributes": {
         "class": [
           "colored"
         ]
-      }
+      },
+      "content": "What our customers have to say",
+      "name": "h4"
     },
     {
-      "content": "1",
-      "name": "a",
       "attributes": {
         "href": "#testimonial1"
-      }
+      },
+      "content": "1",
+      "name": "a"
     },
     {
-      "content": "2",
-      "name": "a",
       "attributes": {
         "href": "#testimonial2"
-      }
+      },
+      "content": "2",
+      "name": "a"
     },
     {
-      "content": "3",
-      "name": "a",
       "attributes": {
         "href": "#testimonial3"
-      }
+      },
+      "content": "3",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "\"It's been a lifesaver having a reliable stock API, in the cloud, online that's accessible. It has helped us stay organized and efficiently work on the projects we need to instead of worrying about data collection.\"",
-      "name": "cite",
-      "attributes": null
+      "name": "cite"
     },
     {
+      "attributes": null,
       "content": "\"I absolutely love the documentation and ease of use. The API performance is amazing as well. It's also great seeing more technical indicators added every day.\"",
-      "name": "cite",
-      "attributes": null
+      "name": "cite"
     },
     {
+      "attributes": null,
       "content": "\"Stock Data API is easy to use and the technical indicators are fantastic. Our company has benefited greatly having access to a reliable data source.\"",
-      "name": "cite",
-      "attributes": null
+      "name": "cite"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "grey"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": "Why choose Stock Data API?",
-      "name": "h4",
       "attributes": {
         "class": [
           "colored"
         ]
-      }
+      },
+      "content": "Why choose Stock Data API?",
+      "name": "h4"
     },
     {
+      "attributes": {
+        "class": [
+          "margintop"
+        ]
+      },
       "content": "Best-in-class reliability, performance and value",
-      "name": "h5",
-      "attributes": {
-        "class": [
-          "margintop"
-        ]
-      }
+      "name": "h5"
     },
     {
+      "attributes": null,
       "content": "Our data is hosted on multiple high performance servers and optimized for the best performance and reliability.",
-      "name": "p",
-      "attributes": null
+      "name": "p"
     },
     {
+      "attributes": {
+        "class": [
+          "margintop"
+        ]
+      },
       "content": "Speed up application development",
-      "name": "h5",
-      "attributes": {
-        "class": [
-          "margintop"
-        ]
-      }
+      "name": "h5"
     },
     {
+      "attributes": null,
       "content": "Stock Data API manages all technical computations without you needing to write your own complex algorithms.",
-      "name": "p",
-      "attributes": null
+      "name": "p"
     },
     {
-      "content": "Accessible stock data from anywhere",
-      "name": "h5",
       "attributes": {
         "class": [
           "margintop"
         ]
-      }
+      },
+      "content": "Accessible stock data from anywhere",
+      "name": "h5"
     },
     {
+      "attributes": null,
       "content": "Developers can speed up the application development process by easily utilizing our API instead of resource intensive database storage. With JSON, you can access our data from any device, anywhere in the world.",
-      "name": "p",
-      "attributes": null
+      "name": "p"
     },
     {
-      "content": "read more",
-      "name": "a",
       "attributes": {
         "href": "/features/",
         "class": [
@@ -843,473 +852,473 @@
           "tiny",
           "right"
         ]
-      }
+      },
+      "content": "read more",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/1.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/2.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/3.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/4.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/5.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/6.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/7.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/8.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/9.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/1.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/2.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/3.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/4.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/5.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/6.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/7.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/8.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
-      "content": null,
-      "name": "div",
       "attributes": {
         "class": [
           "item"
         ]
-      }
+      },
+      "content": null,
+      "name": "div"
     },
     {
-      "content": null,
-      "name": "img",
       "attributes": {
         "src": "/static/website/images/clients/9.png",
         "alt": "Stock Data API"
-      }
+      },
+      "content": null,
+      "name": "img"
     },
     {
+      "attributes": null,
       "content": "Support",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "black"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": "API Documentation",
-      "name": "a",
       "attributes": {
         "href": "/documentation/"
-      }
+      },
+      "content": "API Documentation",
+      "name": "a"
     },
     {
-      "content": "Blog",
-      "name": "a",
       "attributes": {
         "href": "/blog/"
-      }
+      },
+      "content": "Blog",
+      "name": "a"
     },
     {
-      "content": "Contact Us",
-      "name": "a",
       "attributes": {
         "href": "/contact/"
-      }
+      },
+      "content": "Contact Us",
+      "name": "a"
     },
     {
-      "content": "Python Wrapper",
-      "name": "a",
       "attributes": {
         "href": "https://github.com/buckyroberts/python-Stock-Data",
         "target": "_blank"
-      }
+      },
+      "content": "Python Wrapper",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "Social Media",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "black"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": "Facebook",
-      "name": "a",
       "attributes": {
         "href": "https://www.facebook.com/Stock-Data-API-613005355529673/"
-      }
+      },
+      "content": "Facebook",
+      "name": "a"
     },
     {
-      "content": "Twitter",
-      "name": "a",
       "attributes": {
         "href": "https://twitter.com/StockMarketAPI"
-      }
+      },
+      "content": "Twitter",
+      "name": "a"
     },
     {
-      "content": "Tumblr",
-      "name": "a",
       "attributes": {
         "href": "http://stockdataapi.tumblr.com/"
-      }
+      },
+      "content": "Tumblr",
+      "name": "a"
     },
     {
-      "content": "Pinterest",
-      "name": "a",
       "attributes": {
         "href": "https://www.pinterest.com/stockdataapi/"
-      }
+      },
+      "content": "Pinterest",
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "API Data Plans",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "black"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "Beginner Plan",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "Professional Plan",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": {
+        "href": "/purchase/"
+      },
       "content": "Ultimate Plan",
-      "name": "a",
-      "attributes": {
-        "href": "/purchase/"
-      }
+      "name": "a"
     },
     {
+      "attributes": null,
       "content": "Our Newsletter",
-      "name": "h4",
-      "attributes": null
+      "name": "h4"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "black"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
+      "attributes": null,
       "content": "Sign up for news (coming soon)",
-      "name": "label",
-      "attributes": null
+      "name": "label"
     },
     {
-      "content": "@",
-      "name": "span",
       "attributes": {
         "class": [
           "prefix"
         ]
-      }
+      },
+      "content": "@",
+      "name": "span"
     },
     {
-      "content": null,
-      "name": "input",
       "attributes": {
-        "type": "text",
-        "id": "email"
-      }
+        "id": "email",
+        "type": "text"
+      },
+      "content": null,
+      "name": "input"
     },
     {
-      "content": "subscribe",
-      "name": "a",
       "attributes": {
         "href": "#",
         "class": [
@@ -1319,150 +1328,141 @@
           "left",
           "noborder"
         ]
-      }
+      },
+      "content": "subscribe",
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "hr",
       "attributes": {
         "class": [
           "black"
         ]
-      }
+      },
+      "content": null,
+      "name": "hr"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "https://twitter.com/StockMarketAPI"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-twitter"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "https://www.facebook.com/Stock-Data-API-613005355529673/"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-facebook"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "https://www.pinterest.com/stockdataapi/"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-pinterest"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "https://www.reddit.com/r/stock_data/"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-reddit-alien"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "http://stockdataapi.tumblr.com/"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-tumblr"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": null,
-      "name": "a",
       "attributes": {
         "href": "https://plus.google.com/+BuckyRoberts"
-      }
+      },
+      "content": null,
+      "name": "a"
     },
     {
-      "content": null,
-      "name": "i",
       "attributes": {
+        "aria-hidden": "true",
         "class": [
           "fa",
           "fa-google-plus"
-        ],
-        "aria-hidden": "true"
-      }
+        ]
+      },
+      "content": null,
+      "name": "i"
     },
     {
-      "content": "TERMS OF USE",
-      "name": "a",
       "attributes": {
         "href": "/tos/"
-      }
+      },
+      "content": "TERMS OF USE",
+      "name": "a"
     },
     {
-      "content": "PRIVACY POLICY",
-      "name": "a",
       "attributes": {
         "href": "/privacy/"
-      }
+      },
+      "content": "PRIVACY POLICY",
+      "name": "a"
     }
   ],
-  "headers": {
-    "Vary": "Cookie,Accept-Encoding",
-    "Expires": "Mon, 27 Jun 2016 14:45:19 GMT",
-    "Server": "Apache/2.4.18 (Ubuntu)",
-    "X-Frame-Options": "SAMEORIGIN",
-    "Content-Type": "text/html; charset=utf-8",
-    "Connection": "close",
-    "Date": "Sat, 28 May 2016 14:45:19 GMT",
-    "Cache-Control": "max-age=2592000",
-    "Transfer-Encoding": "chunked"
-  },
-  "status": 200
+  "url": "http://stock-data-api.com/"
 }

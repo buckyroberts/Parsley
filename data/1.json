@@ -1,0 +1,1157 @@
+{
+  "headers": {
+    "Content-Type": "text/html",
+    "Vary": "Accept-Encoding",
+    "Date": "Sat, 28 May 2016 15:18:40 GMT",
+    "Pragma": "no-cache",
+    "Server": "nginx",
+    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Content-Security-Policy": "style-src 'self' 'unsafe-inline' fonts.googleapis.com maxcdn.bootstrapcdn.com",
+    "Set-Cookie": "_TNB_SSESSID=u02r01etcv0r1vuan6c34s17j3; path=/; domain=thenewboston.com; secure; HttpOnly",
+    "X-XSS-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+  },
+  "status": 200,
+  "tags": [
+    {
+      "attributes": {
+        "charset": "UTF-8"
+      },
+      "content": null,
+      "name": "meta"
+    },
+    {
+      "attributes": {
+        "http-equiv": "X-UA-Compatible",
+        "content": "IE=edge"
+      },
+      "content": null,
+      "name": "meta"
+    },
+    {
+      "attributes": {
+        "content": "width=device-width, initial-scale=1",
+        "name": "viewport"
+      },
+      "content": null,
+      "name": "meta"
+    },
+    {
+      "attributes": {
+        "content": "Welcome to thenewboston, the world's largest collection of free video tutorials on computer programming, web design, game development, and more.",
+        "name": "description"
+      },
+      "content": null,
+      "name": "meta"
+    },
+    {
+      "attributes": null,
+      "content": "thenewboston - Video Tutorials on Programming and More",
+      "name": "title"
+    },
+    {
+      "attributes": {
+        "href": "//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "/css/main.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "/css/widgets.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "/css/pages.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "href": "/css/themes.min.css",
+        "rel": [
+          "stylesheet"
+        ],
+        "type": "text/css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "class": [
+          "navbar-icon",
+          "fa",
+          "fa-bars",
+          "icon"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "src": "/images/logo.png",
+        "alt": "thenewboston Logo"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "navbar-icon",
+          "fa",
+          "fa-bars"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "dropdown-icon",
+          "fa",
+          "fa-comment"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "dropdown-icon",
+          "fa",
+          "fa-youtube-play"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_beauty.php"
+      },
+      "content": "Beauty",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_business.php"
+      },
+      "content": "Business",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php"
+      },
+      "content": "Computer Science",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_food.php"
+      },
+      "content": "Cooking",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_health.php"
+      },
+      "content": "Health & Medicine",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_humanities.php"
+      },
+      "content": "Humanities",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_math.php"
+      },
+      "content": "Math",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_science.php"
+      },
+      "content": "Science",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos_social.php"
+      },
+      "content": "Social Sciences",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "form-control",
+          "require-validation"
+        ],
+        "type": "text",
+        "placeholder": "Email",
+        "id": "username_id",
+        "v-require": "1",
+        "v-email": "1",
+        "name": "email"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "v-minlength": "6",
+        "class": [
+          "form-control",
+          "require-validation"
+        ],
+        "type": "password",
+        "placeholder": "Password",
+        "id": "password_id",
+        "v-require": "1",
+        "name": "password"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "value": "Login",
+        "type": "submit",
+        "class": [
+          "btn",
+          "btn-primary"
+        ],
+        "name": "signin_submit"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "value": "login",
+        "type": "hidden",
+        "name": "action"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "value": "1",
+        "type": "hidden",
+        "name": "193d457609938be2233e412b481508f4"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "class": [
+          "dropdown-icon",
+          "fa",
+          "fa-sign-in"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-heart"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Beauty",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-line-chart"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Business",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-laptop"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Computer Science",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-coffee"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Cooking",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-stethoscope"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Health & Medicine",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-bank"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Humanities",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-plus"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Math",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-leaf"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Science",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "menu-icon",
+          "fa",
+          "fa-graduation-cap"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "mm-text"
+        ]
+      },
+      "content": "Social Sciences",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/register.php",
+        "class": [
+          "btn",
+          "btn-primary",
+          "btn-block",
+          "btn-outline",
+          "dark"
+        ]
+      },
+      "content": "Create an Account",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "id": "main-menu-bg"
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "class": [
+          "margin-top5",
+          "margin-bottom15",
+          "featured-video-heading"
+        ]
+      },
+      "content": "Featured Tutorial - Android App Development for Beginners",
+      "name": "h1"
+    },
+    {
+      "attributes": {
+        "data-token": "193d457609938be2233e412b481508f4",
+        "data-code": "-u-j7uqU7sI",
+        "src": "//www.youtube.com/embed/QAbQgLGKd3Y?enablejsapi=1",
+        "class": [
+          "embed-responsive-item",
+          "youtube-player"
+        ],
+        "id": "youtube-player96"
+      },
+      "content": "",
+      "name": "iframe"
+    },
+    {
+      "attributes": null,
+      "content": null,
+      "name": "br"
+    },
+    {
+      "attributes": {
+        "href": "https://www.thenewboston.com/videos.php?cat=278&video=27335"
+      },
+      "content": "Watch Now",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://www.thenewboston.com/forum/category.php?id=10"
+      },
+      "content": "Visit Android Forum",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "panel-title-icon",
+          "fa",
+          "fa-fire"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "Brand New Courses",
+      "name": "b"
+    },
+    {
+      "attributes": {
+        "src": "/images/videos/java_beginners.png",
+        "alt": "Java Programming",
+        "class": [
+          "img",
+          "video-thumbnail"
+        ]
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=31"
+      },
+      "content": "Java - Beginners",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=31"
+      },
+      "content": "87 videos",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/images/videos/cpp.png",
+        "alt": "C++ Programming",
+        "class": [
+          "img",
+          "video-thumbnail"
+        ]
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=16"
+      },
+      "content": "C++",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=16"
+      },
+      "content": "73 videos",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/images/videos/php.png",
+        "alt": "PHP Programming",
+        "class": [
+          "img",
+          "video-thumbnail"
+        ]
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=11"
+      },
+      "content": "PHP",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=11"
+      },
+      "content": "200 videos",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/images/videos/html5.png",
+        "alt": "HTML5 Logo",
+        "class": [
+          "img",
+          "video-thumbnail"
+        ]
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=43"
+      },
+      "content": "HTML5 Web Design",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=43"
+      },
+      "content": "53 videos",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/images/videos/javascript.png",
+        "alt": "JavaScript Programming",
+        "class": [
+          "img",
+          "video-thumbnail"
+        ]
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=10"
+      },
+      "content": "JavaScript",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://thenewboston.com/videos.php?cat=10"
+      },
+      "content": "40 videos",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "panel-title-icon",
+          "fa",
+          "fa-desktop"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 20 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 23 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 6 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 40 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 5 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 7 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 48 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 15 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 18 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 8 videos",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "panel-title-icon",
+          "fa",
+          "fa-bookmark"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "href": "/search.php?type=1&sort=pop&"
+      },
+      "content": "view all...",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/35257/resized/9fd79de3589edff68db18bb6141025c3.jpg",
+        "alt": "Girls logo"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 78 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/2/resized/8aa8647e9d0606074a04bfb6ee64fa70.png",
+        "alt": "thenewboston logo"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 757 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/291/resized/4492b84252ec36c351e31d851237354e.jpg",
+        "alt": "future logo"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 77 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/4237/resized/8b438442aaf1377b628ae68f5cefa4f0.jpg",
+        "alt": "Movie Fans logo"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 33 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/4454/resized/be9304e0f54abb7abc77686b6ba6d307.png",
+        "alt": "Real Game Dev"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 62 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/4454/resized/117c0964cb691257ec6462197fdac778.png",
+        "alt": "Song Per Day"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 34 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/25213/resized/83ca8275492b51a3300e415764a3e97d.jpg",
+        "alt": "Scenery Around The World"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 19 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/photos/users/4454/resized/5e7c4957a7c1b8e31e45e3b62affff7c.png",
+        "alt": "Pixelated Motivation"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item-details"
+        ]
+      },
+      "content": "\u00b7 54 followers",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "class": [
+          "panel-title-icon",
+          "fa",
+          "fa-comments"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": {
+        "href": "/forum/search_forums.php"
+      },
+      "content": "view all...",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/b57c66566dd5286a036435b570d1740f.png",
+        "alt": "C++"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "C++",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/23.png",
+        "alt": "Game Design / UDK / Unity"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Game Design / UDK / Unity",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/40b7d73b02803aace9d158fca9bde527.png",
+        "alt": "General Chat"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "General Chat",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/145efe2aab7ca9959397d6344180b658.png",
+        "alt": "HTML / CSS / Web Design"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "HTML / CSS / Web Design",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/dfdfdb6ea30dd264d092183442b4ec5c.png",
+        "alt": "Java / Android Development"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Java / Android Development",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/11.png",
+        "alt": "Javascript"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Javascript",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/e1d4744681368d92c847480734c0ea2b.png",
+        "alt": "Linux"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Linux",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/bc250f3c219a9748e82320ca66ea228e.jpg",
+        "alt": "Networking"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Networking",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/14.png",
+        "alt": "PHP"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "PHP",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "src": "/images/forum/logos/413e73d9c942b5dc27fcfce548046a15.png",
+        "alt": "Python"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "following-row-text"
+        ]
+      },
+      "content": "Python",
+      "name": "span"
+    }
+  ],
+  "url": "https://thenewboston.com/"
+}
