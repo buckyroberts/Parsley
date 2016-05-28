@@ -3,3 +3,4 @@ from tools.general import *
 
 
 print(MasterParser.parse('http://stock-data-api.com/', 'data', 'stocks'))
+print(MasterParser.parse('http://in.fo/', 'data', 'info'))
