@@ -1,4 +1,4 @@
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 from http_parser.response_parser import ResponseParser
 from http_parser.page_parser import PageParser
 from tools.general import *
@@ -9,7 +9,7 @@ class MasterParser:
     @staticmethod
     def parse(url, output_dir, output_file):
         print('Crawling ' + url)
-        resp = urlopen(url)
+        resp = urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'}))
         resp_bytes = resp.read()
         resp_parser = ResponseParser(resp)
         try:
