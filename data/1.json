@@ -1,129 +1,123 @@
 {
-  "headers": {
-    "Content-Type": "text/html",
-    "Vary": "Accept-Encoding",
-    "Date": "Sat, 28 May 2016 15:18:40 GMT",
-    "Pragma": "no-cache",
-    "Server": "nginx",
-    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
-    "Content-Security-Policy": "style-src 'self' 'unsafe-inline' fonts.googleapis.com maxcdn.bootstrapcdn.com",
-    "Set-Cookie": "_TNB_SSESSID=u02r01etcv0r1vuan6c34s17j3; path=/; domain=thenewboston.com; secure; HttpOnly",
-    "X-XSS-Protection": "1; mode=block",
-    "Transfer-Encoding": "chunked",
-    "Connection": "close",
-    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
-  },
-  "status": 200,
   "tags": [
     {
       "attributes": {
-        "charset": "UTF-8"
+        "charset": "utf-8"
       },
       "content": null,
       "name": "meta"
     },
     {
       "attributes": {
-        "http-equiv": "X-UA-Compatible",
-        "content": "IE=edge"
-      },
-      "content": null,
-      "name": "meta"
-    },
-    {
-      "attributes": {
-        "content": "width=device-width, initial-scale=1",
+        "content": "width=device-width",
         "name": "viewport"
       },
       "content": null,
       "name": "meta"
     },
     {
+      "attributes": null,
+      "content": "Buy Historical Stock Market Analytics JSON API | Stock Data API",
+      "name": "title"
+    },
+    {
       "attributes": {
-        "content": "Welcome to thenewboston, the world's largest collection of free video tutorials on computer programming, web design, game development, and more.",
+        "content": "Historical stock data JSON REST API for financial market data. Includes over 6,000 companies\n    and more than 50 advanced technical indicators.",
         "name": "description"
       },
       "content": null,
       "name": "meta"
     },
     {
-      "attributes": null,
-      "content": "thenewboston - Video Tutorials on Programming and More",
-      "name": "title"
-    },
-    {
       "attributes": {
-        "href": "//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin",
         "rel": [
-          "stylesheet"
+          "shortcut",
+          "icon"
         ],
-        "type": "text/css"
+        "href": "/static/website/images/icons/favicon.ico"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css",
+        "type": "text/css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "http://fonts.googleapis.com/css?family=Droid+Sans:400,700"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "/css/main.min.css",
+        "type": "text/css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "/static/website/css/foundation.css"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "/css/widgets.min.css",
+        "type": "text/css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "/static/website/css/master.css"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "/css/pages.min.css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "/static/website/css/flexslider.css"
       },
       "content": null,
       "name": "link"
     },
     {
       "attributes": {
-        "href": "/css/themes.min.css",
         "rel": [
           "stylesheet"
         ],
-        "type": "text/css"
+        "href": "/static/website/css/animate.css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "rel": [
+          "stylesheet"
+        ],
+        "href": "/static/website/css/owl.carousel.css"
+      },
+      "content": null,
+      "name": "link"
+    },
+    {
+      "attributes": {
+        "rel": [
+          "stylesheet"
+        ],
+        "href": "/static/website/css/owl.theme.css"
       },
       "content": null,
       "name": "link"
@@ -131,390 +125,594 @@
     {
       "attributes": {
         "class": [
-          "navbar-icon",
-          "fa",
-          "fa-bars",
-          "icon"
+          "phone"
         ]
       },
-      "content": null,
-      "name": "i"
+      "content": "+1 (801) 123-4567",
+      "name": "li"
     },
     {
       "attributes": {
-        "src": "/images/logo.png",
-        "alt": "thenewboston Logo"
+        "href": "/contact/"
+      },
+      "content": "HELP & SUPPORT",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "content": "CONTACT US",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/register/"
+      },
+      "content": "SIGN UP",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/login/"
+      },
+      "content": "LOGIN",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/logo.png",
+        "alt": "Stock Data API Logo"
       },
       "content": null,
       "name": "img"
     },
     {
       "attributes": {
-        "class": [
-          "navbar-icon",
-          "fa",
-          "fa-bars"
-        ]
+        "href": "/about/"
+      },
+      "content": "ABOUT US",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/documentation/"
+      },
+      "content": "DOCS",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/features/"
+      },
+      "content": "FEATURES",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "PURCHASE",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "BEGINNER",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "30 requests/min",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "PRO",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "60 requests/min",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "ULTIMATE",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "200 requests/min",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "content": "SUPPORT",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "content": "CONTACT US",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "target": "_blank",
+        "href": "https://github.com/buckyroberts/python-Stock-Data"
+      },
+      "content": "PYTHON",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "Home",
+      "name": "strong"
+    },
+    {
+      "attributes": null,
+      "content": "About Us",
+      "name": "strong"
+    },
+    {
+      "attributes": null,
+      "content": "Documentation",
+      "name": "strong"
+    },
+    {
+      "attributes": {
+        "href": "/documentation/"
+      },
+      "content": "- Overview",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/documentation/"
+      },
+      "content": "- Company Overview",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/documentation/"
+      },
+      "content": "- Historical Price Data",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "Features & Indicators",
+      "name": "strong"
+    },
+    {
+      "attributes": null,
+      "content": "Purchase",
+      "name": "strong"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "- Beginner",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "- Pro",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/purchase/"
+      },
+      "content": "- Ultimate",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "Support",
+      "name": "strong"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "content": "- Contact Us",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://github.com/buckyroberts/python-Stock-Data"
+      },
+      "content": "- Python Wrapper",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/slider/slide-1.jpg",
+        "alt": "Access historical stock data"
       },
       "content": null,
-      "name": "i"
+      "name": "img"
+    },
+    {
+      "attributes": null,
+      "content": "ACCESS HISTORICAL STOCK DATA",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "All exchanges including NASDAQ, NYSE, and AMEX",
+      "name": "h4"
     },
     {
       "attributes": {
-        "class": [
-          "dropdown-icon",
-          "fa",
-          "fa-comment"
-        ]
+        "href": "/register/"
+      },
+      "content": "Discover the benefits of historical stock data",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/slider/slide-2.jpg",
+        "alt": "Analyze over 50 technical indicators"
       },
       "content": null,
-      "name": "i"
+      "name": "img"
+    },
+    {
+      "attributes": null,
+      "content": "ANALYZE 50+ TECHNICAL INDICATORS",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "Popular technical indicators including RSI, Fast Stochastics, and MACD",
+      "name": "h4"
     },
     {
       "attributes": {
-        "class": [
-          "dropdown-icon",
-          "fa",
-          "fa-youtube-play"
-        ]
+        "href": "/register/"
+      },
+      "content": "Start analyzing historical stock prices today",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/slider/slide-3.jpg",
+        "alt": "Award winning JSON REST API"
       },
       "content": null,
-      "name": "i"
+      "name": "img"
+    },
+    {
+      "attributes": null,
+      "content": "DATA FOR OVER 6,000 COMPANIES",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "Historical data for all of the world\u2019s most popular companies",
+      "name": "h4"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos_beauty.php"
+        "href": "/register/"
       },
-      "content": "Beauty",
+      "content": "Sign up today for instant access",
       "name": "a"
     },
     {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_business.php"
-      },
-      "content": "Business",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos.php"
-      },
-      "content": "Computer Science",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_food.php"
-      },
-      "content": "Cooking",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_health.php"
-      },
-      "content": "Health & Medicine",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_humanities.php"
-      },
-      "content": "Humanities",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_math.php"
-      },
-      "content": "Math",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_science.php"
-      },
-      "content": "Science",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos_social.php"
-      },
-      "content": "Social Sciences",
-      "name": "a"
+      "attributes": null,
+      "content": "You need advanced analytics.",
+      "name": "span"
     },
     {
       "attributes": {
         "class": [
-          "form-control",
-          "require-validation"
+          "button",
+          "round",
+          "large"
         ],
-        "type": "text",
-        "placeholder": "Email",
-        "id": "username_id",
-        "v-require": "1",
-        "v-email": "1",
-        "name": "email"
+        "href": "/register/"
       },
-      "content": null,
-      "name": "input"
-    },
-    {
-      "attributes": {
-        "v-minlength": "6",
-        "class": [
-          "form-control",
-          "require-validation"
-        ],
-        "type": "password",
-        "placeholder": "Password",
-        "id": "password_id",
-        "v-require": "1",
-        "name": "password"
-      },
-      "content": null,
-      "name": "input"
-    },
-    {
-      "attributes": {
-        "value": "Login",
-        "type": "submit",
-        "class": [
-          "btn",
-          "btn-primary"
-        ],
-        "name": "signin_submit"
-      },
-      "content": null,
-      "name": "input"
-    },
-    {
-      "attributes": {
-        "value": "login",
-        "type": "hidden",
-        "name": "action"
-      },
-      "content": null,
-      "name": "input"
-    },
-    {
-      "attributes": {
-        "value": "1",
-        "type": "hidden",
-        "name": "193d457609938be2233e412b481508f4"
-      },
-      "content": null,
-      "name": "input"
-    },
-    {
-      "attributes": {
-        "class": [
-          "dropdown-icon",
-          "fa",
-          "fa-sign-in"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-heart"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Beauty",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-line-chart"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Business",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-laptop"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Computer Science",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-coffee"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Cooking",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-stethoscope"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Health & Medicine",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-bank"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Humanities",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-plus"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Math",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-leaf"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Science",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "menu-icon",
-          "fa",
-          "fa-graduation-cap"
-        ]
-      },
-      "content": null,
-      "name": "i"
-    },
-    {
-      "attributes": {
-        "class": [
-          "mm-text"
-        ]
-      },
-      "content": "Social Sciences",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/register.php",
-        "class": [
-          "btn",
-          "btn-primary",
-          "btn-block",
-          "btn-outline",
-          "dark"
-        ]
-      },
-      "content": "Create an Account",
+      "content": "SIGNUP NOW",
       "name": "a"
     },
     {
       "attributes": {
-        "id": "main-menu-bg"
+        "class": [
+          "title"
+        ]
+      },
+      "content": "BEGINNER",
+      "name": "h3"
+    },
+    {
+      "attributes": null,
+      "content": "$29.99",
+      "name": "h4"
+    },
+    {
+      "attributes": null,
+      "content": "price / month",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "30 requests per minute",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "Data for 6,000 Companies",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "All Core Price History",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "Basic company overviews",
+      "name": "li"
+    },
+    {
+      "attributes": {
+        "class": [
+          "button",
+          "radius",
+          "small"
+        ],
+        "href": "/register/"
+      },
+      "content": "start analyzing now",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "title"
+        ]
+      },
+      "content": "PRO",
+      "name": "h3"
+    },
+    {
+      "attributes": null,
+      "content": "$49.99",
+      "name": "h4"
+    },
+    {
+      "attributes": null,
+      "content": "price / month",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "60 requests per minute",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "Data for 6,000 Companies",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "All History & Overviews",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "5+ Technical Indicators",
+      "name": "li"
+    },
+    {
+      "attributes": {
+        "class": [
+          "button",
+          "radius",
+          "small"
+        ],
+        "href": "/register/"
+      },
+      "content": "choose a pro plan",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "title"
+        ]
+      },
+      "content": "ULTIMATE",
+      "name": "h3"
+    },
+    {
+      "attributes": null,
+      "content": "$99.99",
+      "name": "h4"
+    },
+    {
+      "attributes": null,
+      "content": "price / month",
+      "name": "span"
+    },
+    {
+      "attributes": null,
+      "content": "200 requests per minute",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "Data for 6,000 Companies",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "All History & Overviews",
+      "name": "li"
+    },
+    {
+      "attributes": null,
+      "content": "10+ Technical Indicators",
+      "name": "li"
+    },
+    {
+      "attributes": {
+        "class": [
+          "button",
+          "radius",
+          "small"
+        ],
+        "href": "/register/"
+      },
+      "content": "signup today",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "grey"
+        ]
+      },
+      "content": null,
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "aria-hidden": "true",
+        "class": [
+          "fa",
+          "fa-globe",
+          "icon-64"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "JSON API Stock Data",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Stock Data offers a simple API for stock market data. The API delivers end-of-day prices, open, high, low, close, volume, adjusted close, and more.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "grey"
+        ]
+      },
+      "content": null,
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "aria-hidden": "true",
+        "class": [
+          "fa",
+          "fa-file-text",
+          "icon-64"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "Full Documentation",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "We have a huge amount of stock data. This data is divided into multiple databases, each covering a different subject. Premium databases are of higher quality, and more comprehensive.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "grey"
+        ]
+      },
+      "content": null,
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "aria-hidden": "true",
+        "class": [
+          "fa",
+          "fa-line-chart",
+          "icon-64"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "50+ Technical Indicators",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Over 50 of the best technical indicators including RSI, Full Stochastics, and MACD that can be used as a basis for trading, as they can form buy-and-sell signals.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "grey"
+        ]
+      },
+      "content": null,
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "aria-hidden": "true",
+        "class": [
+          "fa",
+          "fa-server",
+          "icon-64"
+        ]
+      },
+      "content": null,
+      "name": "i"
+    },
+    {
+      "attributes": null,
+      "content": "Data for 6,500 Companies",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Get access to over 6,000 of the worlds most popular companies from all major exchanges including NASDAQ, NYSE, and AMEX.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "dividerimg"
+        ]
       },
       "content": null,
       "name": "div"
@@ -522,199 +720,628 @@
     {
       "attributes": {
         "class": [
-          "margin-top5",
-          "margin-bottom15",
-          "featured-video-heading"
+          "grey"
         ]
       },
-      "content": "Featured Tutorial - Android App Development for Beginners",
-      "name": "h1"
+      "content": null,
+      "name": "hr"
     },
     {
       "attributes": {
-        "data-token": "193d457609938be2233e412b481508f4",
-        "data-code": "-u-j7uqU7sI",
-        "src": "//www.youtube.com/embed/QAbQgLGKd3Y?enablejsapi=1",
         "class": [
-          "embed-responsive-item",
-          "youtube-player"
+          "colored"
+        ]
+      },
+      "content": "What our customers have to say",
+      "name": "h4"
+    },
+    {
+      "attributes": {
+        "href": "#testimonial1"
+      },
+      "content": "1",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "#testimonial2"
+      },
+      "content": "2",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "#testimonial3"
+      },
+      "content": "3",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "\"It's been a lifesaver having a reliable stock API, in the cloud, online that's accessible. It has helped us stay organized and efficiently work on the projects we need to instead of worrying about data collection.\"",
+      "name": "cite"
+    },
+    {
+      "attributes": null,
+      "content": "\"I absolutely love the documentation and ease of use. The API performance is amazing as well. It's also great seeing more technical indicators added every day.\"",
+      "name": "cite"
+    },
+    {
+      "attributes": null,
+      "content": "\"Stock Data API is easy to use and the technical indicators are fantastic. Our company has benefited greatly having access to a reliable data source.\"",
+      "name": "cite"
+    },
+    {
+      "attributes": {
+        "class": [
+          "grey"
+        ]
+      },
+      "content": null,
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "class": [
+          "colored"
+        ]
+      },
+      "content": "Why choose Stock Data API?",
+      "name": "h4"
+    },
+    {
+      "attributes": {
+        "class": [
+          "margintop"
+        ]
+      },
+      "content": "Best-in-class reliability, performance and value",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Our data is hosted on multiple high performance servers and optimized for the best performance and reliability.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "margintop"
+        ]
+      },
+      "content": "Speed up application development",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Stock Data API manages all technical computations without you needing to write your own complex algorithms.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "margintop"
+        ]
+      },
+      "content": "Accessible stock data from anywhere",
+      "name": "h5"
+    },
+    {
+      "attributes": null,
+      "content": "Developers can speed up the application development process by easily utilizing our API instead of resource intensive database storage. With JSON, you can access our data from any device, anywhere in the world.",
+      "name": "p"
+    },
+    {
+      "attributes": {
+        "class": [
+          "button",
+          "radius",
+          "tiny",
+          "right"
         ],
-        "id": "youtube-player96"
+        "href": "/features/"
       },
-      "content": "",
-      "name": "iframe"
+      "content": "read more",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/1.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/2.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/3.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/4.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/5.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/6.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/7.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/8.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/9.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/1.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/2.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/3.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/4.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/5.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/6.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/7.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/8.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
+    },
+    {
+      "attributes": {
+        "class": [
+          "item"
+        ]
+      },
+      "content": null,
+      "name": "div"
+    },
+    {
+      "attributes": {
+        "src": "/static/website/images/clients/9.png",
+        "alt": "Stock Data API"
+      },
+      "content": null,
+      "name": "img"
     },
     {
       "attributes": null,
-      "content": null,
-      "name": "br"
-    },
-    {
-      "attributes": {
-        "href": "https://www.thenewboston.com/videos.php?cat=278&video=27335"
-      },
-      "content": "Watch Now",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://www.thenewboston.com/forum/category.php?id=10"
-      },
-      "content": "Visit Android Forum",
-      "name": "a"
+      "content": "Support",
+      "name": "h4"
     },
     {
       "attributes": {
         "class": [
-          "panel-title-icon",
-          "fa",
-          "fa-fire"
+          "black"
         ]
       },
       "content": null,
-      "name": "i"
+      "name": "hr"
+    },
+    {
+      "attributes": {
+        "href": "/documentation/"
+      },
+      "content": "API Documentation",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/blog/"
+      },
+      "content": "Blog",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "content": "Contact Us",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "target": "_blank",
+        "href": "https://github.com/buckyroberts/python-Stock-Data"
+      },
+      "content": "Python Wrapper",
+      "name": "a"
     },
     {
       "attributes": null,
-      "content": "Brand New Courses",
-      "name": "b"
+      "content": "Social Media",
+      "name": "h4"
     },
     {
       "attributes": {
-        "src": "/images/videos/java_beginners.png",
-        "alt": "Java Programming",
         "class": [
-          "img",
-          "video-thumbnail"
+          "black"
         ]
       },
       "content": null,
-      "name": "img"
+      "name": "hr"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=31"
+        "href": "https://www.facebook.com/Stock-Data-API-613005355529673/"
       },
-      "content": "Java - Beginners",
+      "content": "Facebook",
       "name": "a"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=31"
+        "href": "https://twitter.com/StockMarketAPI"
       },
-      "content": "87 videos",
+      "content": "Twitter",
       "name": "a"
     },
     {
       "attributes": {
-        "src": "/images/videos/cpp.png",
-        "alt": "C++ Programming",
+        "href": "http://stockdataapi.tumblr.com/"
+      },
+      "content": "Tumblr",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "href": "https://www.pinterest.com/stockdataapi/"
+      },
+      "content": "Pinterest",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "API Data Plans",
+      "name": "h4"
+    },
+    {
+      "attributes": {
         "class": [
-          "img",
-          "video-thumbnail"
+          "black"
         ]
       },
       "content": null,
-      "name": "img"
+      "name": "hr"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=16"
+        "href": "/purchase/"
       },
-      "content": "C++",
+      "content": "Beginner Plan",
       "name": "a"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=16"
+        "href": "/purchase/"
       },
-      "content": "73 videos",
+      "content": "Professional Plan",
       "name": "a"
     },
     {
       "attributes": {
-        "src": "/images/videos/php.png",
-        "alt": "PHP Programming",
+        "href": "/purchase/"
+      },
+      "content": "Ultimate Plan",
+      "name": "a"
+    },
+    {
+      "attributes": null,
+      "content": "Our Newsletter",
+      "name": "h4"
+    },
+    {
+      "attributes": {
         "class": [
-          "img",
-          "video-thumbnail"
+          "black"
         ]
       },
       "content": null,
-      "name": "img"
+      "name": "hr"
+    },
+    {
+      "attributes": null,
+      "content": "Sign up for news (coming soon)",
+      "name": "label"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=11"
-      },
-      "content": "PHP",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=11"
-      },
-      "content": "200 videos",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "src": "/images/videos/html5.png",
-        "alt": "HTML5 Logo",
         "class": [
-          "img",
-          "video-thumbnail"
+          "prefix"
+        ]
+      },
+      "content": "@",
+      "name": "span"
+    },
+    {
+      "attributes": {
+        "type": "text",
+        "id": "email"
+      },
+      "content": null,
+      "name": "input"
+    },
+    {
+      "attributes": {
+        "class": [
+          "button",
+          "radius",
+          "tiny",
+          "left",
+          "noborder"
+        ],
+        "href": "#"
+      },
+      "content": "subscribe",
+      "name": "a"
+    },
+    {
+      "attributes": {
+        "class": [
+          "black"
         ]
       },
       "content": null,
-      "name": "img"
+      "name": "hr"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=43"
-      },
-      "content": "HTML5 Web Design",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=43"
-      },
-      "content": "53 videos",
-      "name": "a"
-    },
-    {
-      "attributes": {
-        "src": "/images/videos/javascript.png",
-        "alt": "JavaScript Programming",
-        "class": [
-          "img",
-          "video-thumbnail"
-        ]
+        "href": "https://twitter.com/StockMarketAPI"
       },
       "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=10"
-      },
-      "content": "JavaScript",
       "name": "a"
     },
     {
       "attributes": {
-        "href": "https://thenewboston.com/videos.php?cat=10"
-      },
-      "content": "40 videos",
-      "name": "a"
-    },
-    {
-      "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "panel-title-icon",
           "fa",
-          "fa-desktop"
+          "fa-twitter"
         ]
       },
       "content": null,
@@ -722,100 +1349,17 @@
     },
     {
       "attributes": {
-        "class": [
-          "item-details"
-        ]
+        "href": "https://www.facebook.com/Stock-Data-API-613005355529673/"
       },
-      "content": "\u00b7 20 videos",
-      "name": "span"
+      "content": null,
+      "name": "a"
     },
     {
       "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 23 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 6 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 40 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 5 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 7 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 48 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 15 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 18 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 8 videos",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "panel-title-icon",
           "fa",
-          "fa-bookmark"
+          "fa-facebook"
         ]
       },
       "content": null,
@@ -823,153 +1367,17 @@
     },
     {
       "attributes": {
-        "href": "/search.php?type=1&sort=pop&"
+        "href": "https://www.pinterest.com/stockdataapi/"
       },
-      "content": "view all...",
+      "content": null,
       "name": "a"
     },
     {
       "attributes": {
-        "src": "/photos/users/35257/resized/9fd79de3589edff68db18bb6141025c3.jpg",
-        "alt": "Girls logo"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 78 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/2/resized/8aa8647e9d0606074a04bfb6ee64fa70.png",
-        "alt": "thenewboston logo"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 757 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/291/resized/4492b84252ec36c351e31d851237354e.jpg",
-        "alt": "future logo"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 77 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/4237/resized/8b438442aaf1377b628ae68f5cefa4f0.jpg",
-        "alt": "Movie Fans logo"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 33 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/4454/resized/be9304e0f54abb7abc77686b6ba6d307.png",
-        "alt": "Real Game Dev"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 62 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/4454/resized/117c0964cb691257ec6462197fdac778.png",
-        "alt": "Song Per Day"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 34 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/25213/resized/83ca8275492b51a3300e415764a3e97d.jpg",
-        "alt": "Scenery Around The World"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 19 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/photos/users/4454/resized/5e7c4957a7c1b8e31e45e3b62affff7c.png",
-        "alt": "Pixelated Motivation"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "item-details"
-        ]
-      },
-      "content": "\u00b7 54 followers",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "class": [
-          "panel-title-icon",
           "fa",
-          "fa-comments"
+          "fa-pinterest"
         ]
       },
       "content": null,
@@ -977,181 +1385,84 @@
     },
     {
       "attributes": {
-        "href": "/forum/search_forums.php"
+        "href": "https://www.reddit.com/r/stock_data/"
       },
-      "content": "view all...",
+      "content": null,
       "name": "a"
     },
     {
       "attributes": {
-        "src": "/images/forum/logos/b57c66566dd5286a036435b570d1740f.png",
-        "alt": "C++"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "following-row-text"
+          "fa",
+          "fa-reddit-alien"
         ]
       },
-      "content": "C++",
-      "name": "span"
+      "content": null,
+      "name": "i"
     },
     {
       "attributes": {
-        "src": "/images/forum/logos/23.png",
-        "alt": "Game Design / UDK / Unity"
+        "href": "http://stockdataapi.tumblr.com/"
       },
       "content": null,
-      "name": "img"
+      "name": "a"
     },
     {
       "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "following-row-text"
+          "fa",
+          "fa-tumblr"
         ]
-      },
-      "content": "Game Design / UDK / Unity",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/40b7d73b02803aace9d158fca9bde527.png",
-        "alt": "General Chat"
       },
       "content": null,
-      "name": "img"
+      "name": "i"
     },
     {
       "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "General Chat",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/145efe2aab7ca9959397d6344180b658.png",
-        "alt": "HTML / CSS / Web Design"
+        "href": "https://plus.google.com/+BuckyRoberts"
       },
       "content": null,
-      "name": "img"
+      "name": "a"
     },
     {
       "attributes": {
+        "aria-hidden": "true",
         "class": [
-          "following-row-text"
+          "fa",
+          "fa-google-plus"
         ]
-      },
-      "content": "HTML / CSS / Web Design",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/dfdfdb6ea30dd264d092183442b4ec5c.png",
-        "alt": "Java / Android Development"
       },
       "content": null,
-      "name": "img"
+      "name": "i"
     },
     {
       "attributes": {
-        "class": [
-          "following-row-text"
-        ]
+        "href": "/tos/"
       },
-      "content": "Java / Android Development",
-      "name": "span"
+      "content": "TERMS OF USE",
+      "name": "a"
     },
     {
       "attributes": {
-        "src": "/images/forum/logos/11.png",
-        "alt": "Javascript"
+        "href": "/privacy/"
       },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "Javascript",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/e1d4744681368d92c847480734c0ea2b.png",
-        "alt": "Linux"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "Linux",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/bc250f3c219a9748e82320ca66ea228e.jpg",
-        "alt": "Networking"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "Networking",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/14.png",
-        "alt": "PHP"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "PHP",
-      "name": "span"
-    },
-    {
-      "attributes": {
-        "src": "/images/forum/logos/413e73d9c942b5dc27fcfce548046a15.png",
-        "alt": "Python"
-      },
-      "content": null,
-      "name": "img"
-    },
-    {
-      "attributes": {
-        "class": [
-          "following-row-text"
-        ]
-      },
-      "content": "Python",
-      "name": "span"
+      "content": "PRIVACY POLICY",
+      "name": "a"
     }
   ],
-  "url": "https://thenewboston.com/"
+  "headers": {
+    "Vary": "Cookie,Accept-Encoding",
+    "Content-Type": "text/html; charset=utf-8",
+    "Expires": "Wed, 29 Jun 2016 20:27:00 GMT",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Cache-Control": "max-age=2592000",
+    "Content-Length": "25004",
+    "Server": "Apache/2.4.18 (Ubuntu)",
+    "Connection": "close",
+    "Date": "Mon, 30 May 2016 20:27:00 GMT"
+  },
+  "status": 200,
+  "url": "http://stock-data-api.com/"
 }
