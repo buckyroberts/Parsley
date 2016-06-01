@@ -6,6 +6,14 @@ class ResponseParser:
         self.response = response
         self.headers = self.parse()
 
+'''
+This function returns a list of dictionaries comprising of all the HTML tags in the webpage. The dictionary has the keys: attributes, content and name of the tags. The attributes would be of the tags such as content and name whereas as the name listed above is the name of the tag.
+
+param html_string: the HTML data of the requested webpage
+type html_string: string
+
+returns: list of dictionaries with all the tags 
+'''
     def parse(self):
         results = {}
         header_info = str(self.response.info()).split('\n')
