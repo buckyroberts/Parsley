@@ -8,7 +8,14 @@ class PageParser:
         self.soup = BeautifulSoup(html_string, 'html5lib')
         self.html = self.soup.find('html')
         self.all_tags = self.parse()
+'''
+This function returns a dictionary with the response headers of the page along with other meta-information. The utility of this function is that urlopen.info() returns these information as a mime tools.Message instance which isn’t as easy to use an dictionary. Each item from an .info() call is split and added to a dictionary as a key value pair
 
+:param response: The response object from a urlopen call to the URL of the webpage
+:type response: HTTPresponse object
+
+:returns a dictionary with response headers and other meta-information depending on the webpage.
+'''
     def parse(self):
         results = []
         for x, tag in enumerate(self.html.descendants):
