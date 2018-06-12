@@ -15,8 +15,23 @@ class PageParser:
 
             if str(type(tag)) == "<class 'bs4.element.Tag'>":
 
+                #look for global.document.metadata
                 if tag.name == 'script':
-                    continue
+                    if tag.string:
+                        position = tag.string.find('global.document.metadata=')
+                        if position == -1:
+                            continue
+                        else:
+                            a = 'global.document.metadata='
+                            t = Tag('global.document.metadata')
+                            
+                            s = tag.string[position + len(a):]
+                            s = s[:s.find('\n')-1]
+
+                            t.add_content(s)
+
+                            results.append(t.get_data())
+                    
 
                 # Find tags with no children (base tags)
                 if tag.contents:
