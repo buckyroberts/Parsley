@@ -1,0 +1,20 @@
+# http://editorconfig.org
+
+root = true
+
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+trim_trailing_whitespace = true
+rulers = 79, 120
+
+[*.py]
+indent_size = 4
+quote_type = single
+trim_trailing_whitespace = true
+rulers = 79, 100
+
+[*.{js,html,xml,json}]
+indent_size = 2
