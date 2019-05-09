@@ -1,8 +1,8 @@
 import threading
 from queue import Queue
-from http_parser.master_parser import MasterParser
-from tools.general import *
 
+from http_parser.master_parser import MasterParser
+from tools.general import create_dir, file_to_set
 
 INPUT_FILE = 'sample-links.txt'
 OUTPUT_DIR = 'data'

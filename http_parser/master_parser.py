@@ -1,7 +1,8 @@
 from urllib.request import Request, urlopen
-from http_parser.response_parser import ResponseParser
+
 from http_parser.page_parser import PageParser
-from tools.general import *
+from http_parser.response_parser import ResponseParser
+from tools.general import write_json
 
 
 class MasterParser:
@@ -24,6 +25,10 @@ class MasterParser:
         :type output_file: string
         '''
         print('Crawling ' + url)
+        # TODO error handling
+        # urllib.error.URLError: <urlopen error [Errno 101] Network is unreachable>
+        # urllib.error.HTTPError: HTTP Error 504: Gateway Time-out
+        # urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution> # this one happened when I pulled the ethernet cable
         resp = urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'}))
         resp_bytes = resp.read()
         resp_parser = ResponseParser(resp)
