@@ -1,12 +1,14 @@
 import threading
 from queue import Queue
 
+from args_parser import parse_args
 from http_parser.master_parser import MasterParser
 from tools.general import create_dir, file_to_set
 
-INPUT_FILE = 'sample-links.txt'
-OUTPUT_DIR = 'data'
-NUMBER_OF_THREADS = 8
+args = parse_args()
+INPUT_FILE = args.input
+OUTPUT_DIR = args.output
+NUMBER_OF_THREADS = args.threads
 
 queue = Queue()
 create_dir(OUTPUT_DIR)
